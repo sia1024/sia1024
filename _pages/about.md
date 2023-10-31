@@ -1,26 +1,36 @@
 ---
 layout: about
-title: about
+title: bio
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_photo_2.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
+    <p>Max Planck Institute</p>
+    <p>for Mathematics</p>
+    <p>Vivatsgasse 7</p>
+    <p>Bonn 53111, Germany</p>
+    <p>Office 225</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+   
+
+
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a PhD student at the [Max Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de) and Bonn International Graduate School of Mathematics since late 2023. My supervisor is [Ursula Hamenstädt](https://www.math.uni-bonn.de/people/ursula/). I did my BSc and MSc at the HSE University and Skoltech in Moscow, where I worked under the supervision of [Alexander Gaifullin](https://faculty.skoltech.ru/people/alexandergaifullin).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research interests lie within the domains of low-dimensional topology and geometric group theory. I mostly study surface mapping class groups with focus on its homology and representations. I am also interested in some combinatorial problems.
+
+Feel free to contact me!
+
+
