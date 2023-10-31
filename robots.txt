@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/igor_spiridonov/sitemap.xml
+Sitemap: https://sia1024.github.io/sia1024//sitemap.xml
