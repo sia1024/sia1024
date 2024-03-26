@@ -5,6 +5,12 @@ title: talks
 description:
 nav: true
 nav_order: 2  
+
+---
+
+"On the homology of the Torelli group"\\
+Oberseminar Geometric Group Theory, University of Bonn (11.1023, Bonn, Germany)
+
 ---
 
 "On the homology of Torelli group"\\
