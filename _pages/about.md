@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: my_photo_2.jpeg
+  image: my_photo_4.jpg
   image_circular: false # crops the image to make it circular
   more_info:
     <p>Max Planck Institute</p>
